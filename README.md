@@ -1,10 +1,10 @@
-# Readme Generator
+# readme generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
 
-This command line tool can be used to generate a readme file
+this application allows a user to easily generate a readme for a github project
 
 ## Table of Contents
 
@@ -36,9 +36,9 @@ This project is protected by MIT
 
 Use the following command to start the application:
 
-node index.js
+npm start
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at dbleiweiss123@gmail.com. You can find more of my work at [dbleiweiss13](https://github.com/dbleiweiss13/).
+If you have any questions about the repo, open an issue or contact me directly at dbleiweiss@fortitudedev.com. You can find more of my work at [dbleiweiss13](https://github.com/dbleiweiss13/).
 
